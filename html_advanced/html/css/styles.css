@@ -1,0 +1,27 @@
+body {
+border : 3px solid black;
+height: 100vh;
+padding: 10px;
+
+}
+header {
+    border: 2px solid black;
+    height: 90 vh;
+    padding: 3px ;
+}
+header div {
+    border: 1px solid black;
+    height: inherit;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.logodiv {
+    border: 1px solid red;
+    height: inherit;
+    padding: 5px;
+
+}
+.navigation{
+
+}
